@@ -1,1 +1,2 @@
 # odin-recipes
+This project will entail displaying a mastry HTML. In this project I will create a page that displays pages that will initially be devoid of CSS to display recipes. I will use links, images, and other common HTML elements to accompish this. 
